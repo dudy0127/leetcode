@@ -1,4 +1,4 @@
-package com.dudy.v19;
+package io.github.dudy.v19;
 
 /**
  *
