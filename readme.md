@@ -4,6 +4,8 @@
 
 [v26 : 删除排序数组中的重复项](src/main/java/io/github/dudy/v26/Solution.java)
 
+[v53 : 最大子序列](src/main/java/io/github/dudy/v53/Solution.java)
+
 [v70 : 爬楼梯](src/main/java/io/github/dudy/v70/Solution.java)
 
 [v88 : 合并两个有序数组](src/main/java/io/github/dudy/v88/Solution.java)
