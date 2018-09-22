@@ -16,4 +16,7 @@
 
 [v141 : 给定一个链表，判断链表中是否有环。](src/main/java/io/github/dudy/v141/Solution.java)
 
+[v142 : 给定一个链表，判断链表中是否有环,并找出环的入口](src/main/java/io/github/dudy/v142/Solution.java)
+
+
 [v158 : 最小栈](src/main/java/io/github/dudy/v158/MinStack.java)
