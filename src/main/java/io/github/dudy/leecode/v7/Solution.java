@@ -1,4 +1,4 @@
-package io.github.dudy.v7;
+package io.github.dudy.leecode.v7;
 
 /**
  * 给定一个 32 位有符号整数，将整数中的数字进行反转。

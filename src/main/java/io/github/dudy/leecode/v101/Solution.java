@@ -1,4 +1,4 @@
-package io.github.dudy.v101;
+package io.github.dudy.leecode.v101;
 
 import java.util.Stack;
 

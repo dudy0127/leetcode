@@ -1,4 +1,4 @@
-package io.github.dudy.v158;
+package io.github.dudy.leecode.v158;
 
 import java.util.ArrayList;
 import java.util.List;

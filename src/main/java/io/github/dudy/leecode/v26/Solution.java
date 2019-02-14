@@ -1,4 +1,4 @@
-package io.github.dudy.v26;
+package io.github.dudy.leecode.v26;
 
 /**
 
