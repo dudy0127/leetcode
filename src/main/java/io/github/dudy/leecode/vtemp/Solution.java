@@ -11,6 +11,13 @@ package io.github.dudy.leecode.vtemp;
  * <p>
  * 输入: 1->2->3->4->5->NULL, m = 2, n = 4
  * 输出: 1->4->3->2->5->NULL
+ *
+ *
+ *
+ * 重要的是记录 m和n节点
+ *
+ *
+ *
  */
 
 class ListNode {
@@ -29,8 +36,10 @@ class Solution {
         dummy.next=head;
         ListNode mPre=dummy,nNext=null,curr=null,next=null,prev=null;
 
+
+        // 查找m点的前节点
         for(int i=0;i<m-1;i++){
-            mPre=mPre.next; // 查找m点的前节点
+            mPre=mPre.next;
         }
         curr=mPre.next; // 当前节点
         for(int i=0;i<=n-m;i++){
